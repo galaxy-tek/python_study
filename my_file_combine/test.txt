@@ -1,0 +1,11 @@
+my write.
+test.txt
+file
+open
+write
+one
+two
+three
+one
+two
+three
