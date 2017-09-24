@@ -22,4 +22,11 @@ print('bob.giveRaise(0.1)')
 bob.giveRaise(0.1)
 print('bob new pay:',bob.pay)
 
+print(sue.name)
+print(sue.lastName())
+print(sue.pay)
+print('sue.giveRaise(0.2)')
+sue.giveRaise(0.2)
+print('sue new pay:',sue.pay)
+
 
